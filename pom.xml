@@ -11,6 +11,7 @@
     <modules>
         <module>introduction</module>
         <module>01_variables-operators</module>
+        <module>02_classes-objects-constructors</module>
     </modules>
 
     <properties>
