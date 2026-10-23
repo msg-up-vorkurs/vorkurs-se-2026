@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>introduction</module>
+        <module>00_introduction</module>
         <module>01_variables-operators</module>
         <module>02_classes-objects-constructors</module>
         <module>03_methods</module>
