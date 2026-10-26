@@ -49,6 +49,6 @@ public class ScopeErrors {
     }
 
     static void main() {
-        ScopeErrors serr = new ScopeErrors();
+        ScopeErrors scopeErrors = new ScopeErrors();
     }
 }
