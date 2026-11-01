@@ -15,6 +15,7 @@
         <module>03_methods</module>
         <module>04_scope</module>
         <module>05_conditionals</module>
+        <module>06_arrays-loops</module>
     </modules>
 
     <properties>
