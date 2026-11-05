@@ -16,6 +16,7 @@
         <module>04_scope</module>
         <module>05_conditionals</module>
         <module>06_arrays-loops</module>
+        <module>07_collections</module>
     </modules>
 
     <properties>
