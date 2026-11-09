@@ -18,6 +18,7 @@
         <module>06_arrays-loops</module>
         <module>07_collections</module>
         <module>08_generics</module>
+        <module>09_2d-arrays</module>
     </modules>
 
     <properties>
