@@ -20,6 +20,8 @@
         <module>08_generics</module>
         <module>09_2d-arrays</module>
         <module>10_inheritance</module>
+        <module>11_tik-tak-toe_blue</module>
+        <module>11_tik-tak-toe_yellow</module>
     </modules>
 
     <properties>
